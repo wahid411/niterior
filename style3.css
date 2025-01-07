@@ -1,7 +1,8 @@
 
  .container{
   height: 100vh;
-  background-image:  url(room.jpg); 
+  width: 100%;
+  background-image: url(room.jpg); 
   background-size: cover;
   background-position: center;
 }
